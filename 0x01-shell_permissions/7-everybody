@@ -1,2 +1,2 @@
 #!/bin/bash
-chmmod ugo+x hello
+chmmod 751 hello
