@@ -1,1 +1,1 @@
-shell script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School
+script that duplicates the last line of the file iacta
